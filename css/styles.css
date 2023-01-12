@@ -167,3 +167,8 @@ h1 {
       padding-right: 140px;
 }
 }
+
+.reveal .fa {
+  font-family: 'FontAwesome';
+  font-style: normal;
+}
